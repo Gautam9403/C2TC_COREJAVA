@@ -1,7 +1,7 @@
 public class Addition {
 
 	public static void main(String[] args) {
-		// TODO Addition
+		// TODO Addition of 2 Numbers
 		
 	    int a = 50;
 		int b = 100;
